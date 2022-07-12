@@ -1,0 +1,31 @@
+div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: left;
+    color: green;
+}
+
+.logo{
+    width: 100px;
+    height: auto;
+}
+
+.recipes{
+    font-size: 24px;
+    text-align: center;
+}
+
+#rname{
+    color: black;
+}
+
+.ingredients, .manual{
+    font-style: italic;
+}
+
+b{
+    color: darkred;
+    font-size: 18px;
+}
